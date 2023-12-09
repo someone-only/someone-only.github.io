@@ -15,14 +15,14 @@ import { RouterLink } from "vue-router";
       >
         Terhubung dengan kecepatan tanpa batas. Jelajahi dunia digital dengan
         layanan internet terbaik untuk pengalaman online yang luar biasa bersama
-        <span class="font-bold">SahazNetwork!</span>
+        <span class="font-bold dark:text-gray-300">SahazNetwork!</span>
       </p>
       <div
         class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0"
       >
         <RouterLink
           to="/price"
-          class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-100 hover:bg-primary-200 focus:ring-4 focus:ring-primry-200 dark:focus:ring-blue-900"
+          class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-primary-100 hover:bg-primary-200 focus:ring-4 focus:ring-primry-200 dark:focus:ring-blue-300"
         >
           Beli Sekarang
           <svg

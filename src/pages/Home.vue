@@ -62,7 +62,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="bg-bg-100">
+  <div class="bg-bg-100 dark:bg-gray-900">
     <HeroSection />
     <FeatureList />
     <CardProduct :paketan="paketan" :heading="heading" />

@@ -6,7 +6,7 @@
           <h2
             class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white"
           >
-            Didedikasikan untuk memastikan Anda terhubung dengan internet
+            Didedikasikan Untuk Memastikan Anda Terhubung Dengan Internet
           </h2>
           <p class="text-gray-500 sm:text-xl dark:text-gray-400">
             Sebagai bagian dari misi kami, kami juga memberikan layanan
@@ -22,11 +22,11 @@
         >
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6 "
                 height="16"
                 width="14"
                 viewBox="0 0 448 512"
@@ -45,11 +45,11 @@
           </div>
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6 "
                 height="16"
                 width="20"
                 viewBox="0 0 640 512"
@@ -69,11 +69,11 @@
           </div>
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6"
                 height="16"
                 width="18"
                 viewBox="0 0 576 512"
@@ -92,11 +92,11 @@
           </div>
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6 "
                 height="16"
                 width="20"
                 viewBox="0 0 640 512"

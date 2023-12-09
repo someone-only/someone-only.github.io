@@ -15,11 +15,11 @@ onMounted(() => {
   <div class="py-8 px-4 mx-auto md:w-[82%] lg:py-16">
     <h2 class="text-4xl leading-relaxed font-extrabold dark:text-white">
       Mengenai
-      <mark class="p-2 text-white bg-primary-100 rounded dark:bg-blue-500"
+      <mark class="p-2 text-white bg-primary-100 rounded dark:bg-primary-100"
         >SahazNetwork</mark
       >
     </h2>
-    <p class="my-4 text-lg text-gray-500">
+    <p class="my-4 text-lg text-gray-500 dark:text-gray-400">
       SahazNetwork adalah perusahaan penyedia layanan internet terkemuka. Dengan
       pengalaman dan keahlian yang telah teruji, kami berkomitmen untuk
       memberikan solusi internet terbaik kepada pelanggan kami.
@@ -49,11 +49,11 @@ onMounted(() => {
         >
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6"
                 height="16"
                 width="18"
                 viewBox="0 0 576 512"
@@ -71,11 +71,11 @@ onMounted(() => {
           </div>
           <div>
             <div
-              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12 dark:bg-primary-200"
+              class="flex justify-center items-center mb-4 w-10 h-10 rounded-full bg-primary-100 lg:h-12 lg:w-12"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                class="w-5 h-5 fill-white lg:w-6 lg:h-6 dark:fill-primary-200"
+                class="w-5 h-5 fill-white lg:w-6 lg:h-6"
                 height="16"
                 width="16"
                 viewBox="0 0 512 512"
